@@ -1,4 +1,4 @@
-                                                                                   Hi, I'm Srivanth Chitta
+                         Hi, I'm Srivanth Chitta
 
 💫 About Me:
 I'm a third-year Computer Science student at the University of Alberta, passionate about data science, analytics, and building practical solutions with machine learning and cloud technologies.
