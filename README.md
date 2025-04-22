@@ -1,4 +1,4 @@
-Hi 👋 I'm Srivanth Chitta
+## Hi 👋 I'm Srivanth Chitta
 
 💫 About Me
 
